@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=16",
-    "npm": ">=8"
+    "node": ">=14",
+    "npm": ">=6"
   },
   "dependencies": {
     "braintree-web": "^3.45.0",
